@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">animal_collection</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="animal1">ヒグマ</string>
+    <string name="animal2">フクロウ</string>
+    <string name="animal3">ナキウサギ</string>
+    <string name="animal4">アカアシシギ</string>
+    <string name="animal5">オコジョ</string>
+</resources>
